@@ -1,1 +1,1 @@
-# Star_simulator
+# Star_simulator this code is to inspire people to make there own resource from scratch and push the boundaries of coding to take the world to newer heights
